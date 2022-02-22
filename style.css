@@ -1,0 +1,386 @@
+.nav{
+    width:84%;
+    margin-left: 150px;
+}
+.mimage{
+    width:111px;
+    height:24px;
+}   
+ul{
+
+    display: flex; 
+    list-style: none;
+    margin-left: 101px;
+    margin-top: -21px;
+    font-size:13px;
+    font-weight:400px;
+    opacity:.8;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+a{
+    padding-right: 29px;
+}
+.search{
+    margin-top: -7px;
+    margin-left: 502px;
+        width:197px;
+        height:30px;
+}
+.simg{
+    height: 21px;
+    width: 22px;
+    margin-left: -30px;
+    margin-top: 0px;
+}
+a1{
+    margin-left: 16px;;
+}
+.icart{
+    width: 22px;
+    height: 22px;
+    margin-top: -2px;
+    margin-left: 36px;
+
+}
+.acc{
+    width: 34px;
+    height: 29px;
+    margin-top: -4px;
+    margin-left: 37px;
+}
+.microsoft{
+    width:34%;
+    margin-top: 10px;
+    margin-left: 150px;
+    padding-right: 25px;
+    
+}
+.m365{
+    background-color: #F4F5F5;
+    height:600px;
+    margin-top: -180px;
+    margin-left: 150px;
+    width:84%;
+}
+h2{
+    padding-top: 210px;
+    padding-left: 17px;
+    margin-top: 190px;
+    margin-left: 100px;
+    width:84%;
+}
+
+.office{
+    margin-top: 25px;
+    margin-left: 118px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 200px;
+    font-style: none;
+
+}
+.button{
+    margin-top: 20px;
+    margin-left: 118px;
+    background-color: black;
+    color: white;
+    width:190px;
+    height:39px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+h4{
+    margin-left: 359px;
+    margin-top: -29px;
+    font-size: 16px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.micro{
+    margin-left: 867px;
+    margin-top: -596px;
+    float: left;
+}
+.windows{
+    width:84%;
+    margin-left: 150px;
+}
+.win365{
+margin-left: 250px;
+height:150px;
+width:180px;
+float: left;
+}
+.w365{
+    height: 50px;
+    width: 50px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.ctext{
+    font-size: 14px;
+    text-align: center;
+    margin-top: -14px;
+    margin-left: 10px;
+    font-weight: 600;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.surface{
+    height:150px;
+    width:180px;
+    float:left;
+}
+.xbox{
+    height:150px;
+    width:180px;
+    float:left;
+}
+.win11{
+    height:150px;
+    width:180px;
+    float: left;
+}
+.find{
+    height:150px;
+    width:180px;
+    float:left;
+}
+.buisness{
+    height:150px;
+    width:180px;
+    float:left;
+}
+.section1{
+    width:84%;
+    margin-left: 150px;
+    margin-top: 150px;
+    
+}.laptop{
+    width:385px;
+    height: 360px;
+    float: left;
+}
+.cimg{
+    margin-left: 0px;
+}
+.chead{
+    margin-top:10px;
+    margin-left: 0px;
+    font-size: 21px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
+.para{
+    font-size: 15px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.shop{
+    font-size: 15px;
+    color:#0097DC;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.shop1{
+    margin-left: 15px;
+    color:#0097DC;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.tab{
+    width:385px;
+    height: 360px;
+    float: left;
+}.gamepass{
+    width:385px;
+    height: 360px;
+    float: left;
+}.seriesx{
+    width:385px;
+    height: 360px;
+    float: left;
+}
+.head2{
+    width:34%;
+    margin-left: 150px;
+    padding-right: 25px;
+}
+.div1{
+    height: 592px;
+    width: 767px;
+    margin-top: 508px;
+    margin-left: 6px;
+    background-color: #010100;
+}
+a0{
+    padding-top: 210px;
+    padding-left: 17px;
+    margin-top: 190px;
+    margin-left: 100px;
+    width:84%;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.subhead{
+    padding-top: 237px;
+}
+.office1{
+    margin-top: 33px;
+    margin-left: 115px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 200px;
+    font-style: none;
+    color: white;
+}
+.button1{
+    margin-top: 20px;
+    margin-left: 118px;
+    background-color: white;
+    color: black;
+    width:190px;
+    height:39px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.phead{
+    margin-top: -424px;
+    margin-left: 639px;
+}
+.business{
+    font-size: 22px;
+    margin-top: 16px;
+    margin-left: 155px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
+.c19{
+    width:84%;
+    margin-left: 150px; 
+    background-color: #E6E7E7;
+    height: 168px;
+}
+.covid{
+    margin-left: 20px;
+    margin-top: 579px;
+}
+.covidtext{
+    padding-top: 9px;
+    margin-top: 20px;
+    margin-left: 272px;
+    font-size: 31px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.ctext1{
+    margin-top: -36px;
+    margin-left: 185px;
+    font-size: 18px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.ctext2{
+    margin-top: -15px;
+    margin-left: 457px;
+    font-size: 18px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.slide{
+    width:84%;
+    margin-left: 150px;
+    height: 592;
+}
+.smove{
+    margin-top: 57px;
+    margin-left: 0px;
+}
+.social{
+    width:84%;
+    margin-left: 150px;
+}
+.icons{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.follow{
+    margin-left: 13px;
+    margin-top: -23px;
+    font-size: 17px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.sicons{
+    height:90px;
+    width:32px;
+    margin-left: 12px;
+    margin-top: -33px;
+}
+ul3{
+padding-top: 21px;
+        display: flex; 
+        list-style: none;
+        margin-left: 13px;
+        margin-top: -21px;
+        font-size:17px;
+        font-weight:400px;
+        opacity:.8;
+        font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.footer{
+    width:84%;
+    margin-left: 150px;
+    background-color: #f2f2f2;
+}
+.ftext{
+    color: #606061;
+    font-size: 14px;
+}
+.fdiv1{
+    width: 260px;
+    height: 312px;
+    
+    float: left;
+}
+ol{
+    line-height: 35px;
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 4px;
+    font-size:12px;
+    font-weight:400px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* opacity:.8; */
+    color: #606061;
+}
+.fnav{
+    width:84%;
+    margin-left: 150px;
+}
+.world{
+    margin-top: 355px;
+    margin-left: -1px;
+}
+.wimg{
+    height:25px;
+    width:25px;
+}
+.english{
+    font-size: 12px;
+    color: #606061;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+ul4{
+
+    display: flex;
+    list-style: none;
+    margin-left: 887px;
+    margin-top: -32px;
+    font-size: 12px;
+    font-weight: 400px;
+    color: #606061;
+    opacity: .8;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+li2{
+    padding-right: 20px;
+}
